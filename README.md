@@ -1,0 +1,1 @@
+# azure_sentinel_qradar_conenctor
