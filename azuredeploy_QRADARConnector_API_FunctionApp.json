@@ -145,7 +145,7 @@
                   },
                   {
                      "name":"WEBSITE_RUN_FROM_PACKAGE",
-                     "value":"https://github.com/tungnt77/ARM-templates/raw/main/TimeTrigger.zip"
+                     "value":"https://github.com/hieuttmmo/azure_sentinel_qradar_connector/blob/main/QradarConnector.zip"
                   },
                   {
                      "name":"SCM_DO_BUILD_DURING_DEPLOYMENT",
